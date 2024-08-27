@@ -6,7 +6,7 @@ The project will aim to build a robust generative search system capable of effec
 I use a single long-life insurance policy document for this project. The PDF for the document can be downloaded at [link_to_download](https://drive.google.com/file/d/1_SJjkgTLO0xPJx8bfoRZoSMx9xVw9o0L/view?usp=sharing)
 
 ### Design choices
-![image.png](attachment:image.png)
+![image.png](image/image.png)
 I implement step by step:
 - Embedding Layer
 - Search Layer 
