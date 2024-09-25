@@ -2,6 +2,7 @@
 ### Project goal
 The project will aim to build a robust generative search system capable of effectively and accurately answering questions from a policy document.
 
+You can see the project report at [HelpMate AI Project.pdf](https://docs.google.com/document/d/1vclhIc1nYeOIGrlid1F9Oyv_XhbnTGp_88Wk6WzGJio/edit?usp=sharing)
 ### Data source
 I use a single long-life insurance policy document for this project. The PDF for the document can be downloaded at [link_to_download](https://drive.google.com/file/d/1_SJjkgTLO0xPJx8bfoRZoSMx9xVw9o0L/view?usp=sharing)
 
